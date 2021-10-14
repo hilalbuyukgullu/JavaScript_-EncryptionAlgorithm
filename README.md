@@ -1,4 +1,4 @@
-## 📌 JavaScript_EncryptionAlgorithm 📌
+## 📌 JavaScript_EncryptionAlgorithm 
 
 <p> Creating your own encryption algorithm with Javascript and reanalyzing the converted data </p>
 
