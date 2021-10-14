@@ -1,13 +1,11 @@
 ## 📌 JavaScript_EncryptionAlgorithm 
 
 <p> Creating your own encryption algorithm with Javascript and reanalyzing the converted data </p>
-
-<br/><br/>
+<br/>
 
  ## Languages and Technologies Used in this Project
 :arrow_right: JavaScript </br>
 :arrow_right: Boostrap </br>
-
 <br/>
 
  ## Application Images
