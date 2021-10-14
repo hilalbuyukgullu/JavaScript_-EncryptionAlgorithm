@@ -4,7 +4,7 @@
 
 <br/><br/>
 
- ## :books: Languages and Technologies Used in this Project
+ ## Languages and Technologies Used in this Project
 :arrow_right: JavaScript </br>
 :arrow_right: Boostrap </br>
 
